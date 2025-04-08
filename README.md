@@ -1,0 +1,4 @@
+Our project involves in brain tumor classification using an augumented dataset created by combining the two Kaggle datasets.Original dataset links are given below:
+      1.[Nickparvar, M. Brain Tumor Classification Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)- Accessed on 2 May 2023.
+      2.[Sartaj Brain Tumor Classification Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)-[(accessed on 2 May 2023)].
+The first dataset consists of 7,022 brain tumor mri images.And the second dataset consists of 3,264 brain tumor images,which is of total 10,287 images.Various data augumentation techniques were applied to enhance dataset size and diversity.The improved dataset helps in better training of deep learning models for accurate tumor classification.And size of the dataset was increased to 42,556 mri images.
